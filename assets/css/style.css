@@ -1,16 +1,16 @@
-
-html {
-    font-family: sans-serif;            
-}
-        
-body {
-    margin-left: 40%;
+body{
+	font-family: Lucida Console, Courier, monospace;
+	background-color: #00ffff;
 }
 
-    .lastResult {
-        color: white;
-        padding: 3px;
+.container{
+	border-radius: 5px;
 }
 
 
-    
+.jumbotron {
+	border-bottom: 100px;
+	margin-top: 20px;
+	padding: 20px;
+}
+
