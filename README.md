@@ -9,7 +9,10 @@ What the Game Looks like
 - Simply start guessing letters by pressing them on your keyboard.
 - You have 10 guesses and there is 26 letters to guess from.
 
-## This app was build using html and css for the static and Javascript for the logic.
+## This app was build using:
+- HTML
+- CSS
+- Javascript
 
 ## How to Run the Game Localy
 - Clone / Download the repository.
