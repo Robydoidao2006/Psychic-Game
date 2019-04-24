@@ -3,7 +3,7 @@ https://robydoidao2006.github.io/Psychic-Game/
 
 What the Game Looks like.
 
-![](game.jpg)
+![](games.jpg)
 
 
 ## Rules of the Game
