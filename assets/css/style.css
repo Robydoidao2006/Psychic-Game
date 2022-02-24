@@ -1,6 +1,9 @@
+
 body{
+	background: url('../images/01.jpg') no-repeat center fixed;
+	background-size:cover;
 	font-family: Lucida Console, Courier, monospace;
-	background-color: #00ffff;
+	background-color: pink;
 }
 
 .container{
@@ -13,4 +16,3 @@ body{
 	margin-top: 20px;
 	padding: 20px;
 }
-
